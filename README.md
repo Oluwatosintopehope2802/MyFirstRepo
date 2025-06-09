@@ -14,7 +14,7 @@ Oluwatosin Tope Hope
 
 Contact
 
-📧 [topehope.oluwatosin@gmail.com](mailto:topehope.oluwatosin@gmail.com)
+📧 [oluwatosintopehope2802@gmail.com](mailto:topehope.oluwatosin@gmail.com)
 🔗 LinkedIn: [https://linkedin.com/in/oluwatosintopehope](https://linkedin.com/in/oluwatosintopehope)
 
 ---
