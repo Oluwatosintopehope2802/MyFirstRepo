@@ -1,3 +1,0 @@
-One key thing I’ve learned so far in this course is how to create and manage a GitHub repository effectively. 
-By working on my first repository — MyFirstRepo — I gained hands-on experience with version control, writing clear and structured README files, and understanding how GitHub supports collaboration. 
-These tasks have boosted my confidence in using Git and GitHub
