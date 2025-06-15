@@ -10,7 +10,7 @@ Contents
 
 Author
 
-Oluwatosin Tope Hope**
+Oluwatosin Tope Hope
 
 Contact
 
@@ -20,3 +20,9 @@ Contact
 ---
 
 Thank you for visiting this repository. Feel free to explore and leave feedback!
+
+Names of contributors
+Obed Ehoneah
+James Nzioka
+Biniyam Ambachew
+Oluwatosin Tope Hope
