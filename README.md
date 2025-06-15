@@ -21,7 +21,7 @@ Contact
 
 Thank you for visiting this repository. Feel free to explore and leave feedback!
 
-Names of contributors
+[Names of contributors]
 Obed Ehoneah
 James Nzioka
 Biniyam Ambachew
